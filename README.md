@@ -19,7 +19,7 @@ MediaMaster is a versatile media recording application that allows users to capt
 
 ## 🚀 Live Preview
 
-You can view the live preview of the project [here]((https://recordyourscreen.vercel.app/)).
+You can view the live preview of the project [here](https://recordyourscreen.vercel.app/).
 
 ## 💻 Technologies Used
 
