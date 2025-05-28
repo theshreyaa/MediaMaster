@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	body {
+		@apply bg-white text-light-text;
+	}
+
+	video {
+		@apply rounded-md sm:rounded-xl;
+	}
+}
